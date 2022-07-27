@@ -3,6 +3,9 @@
   * Automate thing! Make the life easier to your programmers!
   * CI/CD Lover!
 
+- Check out my simple and easy to use app
+  * https://apps.apple.com/mk/app/walletless-cards/id1622182327
+
 - 🧰 Hobby
   * DIY
   * Fishing
