@@ -17,3 +17,6 @@
 
 - 🤙 React out
   * https://www.linkedin.com/in/filip-kjamilov-379757157/
+
+- 🚀 CV
+  * https://tinyurl.com/filipkjamilov-LCV
