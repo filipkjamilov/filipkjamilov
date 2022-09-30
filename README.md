@@ -1,14 +1,14 @@
 - 🙋‍♂️ Hi, I’m @filipkjamilov
-  * iOS Engineer and enthusiast into BuildCrew/DevOps topics.
-  * Automate thing! Make the life easier to your programmers!
-  * CI/CD Lover!
+  * iOS Engineer.
+  * I love bringing apps from concept to completion.
+  * Automate thing! Make your life easier while programming!
 
 - Check out my simple and easy to use app
   * https://apps.apple.com/mk/app/walletless-cards/id1622182327
 
 - 🧰 Hobby
   * DIY
-  * Fishing
+  * Learning
 
 - 💪 Strengths
   * Patient
@@ -18,5 +18,5 @@
 - 🤙 React out
   * https://www.linkedin.com/in/filip-kjamilov-379757157/
 
-- 🚀 CV
-  * https://tinyurl.com/filipkjamilov-LCV
+- 🚀 Porfolio
+  * http://filipkjamilov.com/
